@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* Made by Emma Menpes*/
+
+body{
+	margin: 0;
+	background-color: #D7AEAE; 
+}
+
+#logo_picture {
+	width: 80%;
+	height: 30%;
+}
+
+#main-title {
+	font-family: 'Roboto', sans-serif;
+	color: #ed3a34;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: dotted underline;
+}
+
+#left_section {
+	width: 17.88%;
+	font-size: 50px;
+	float: left;
+	background-color: 7380AE;
+	height: 120%;
+	opacity: 0.8;
+}
+
+#right_section {
+	width: 75%;
+	height: 50%;
+	margin-left: 5%;
+	font-size: 30px;
+	float: left;
+	color: ;
+}
+
+#button {
+  background-color: ;
+  color:  C5F7CF ;
+  padding: 15px 32px;
+  font-size: 50%;
+}
+  
+#theme_park img {
+	width: 700px;
+	height: 400px;
+	margin-left: 16%;
+}
+
+.background-section {
+
+	  background-attachment: fixed;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	}
+	
+
