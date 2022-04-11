@@ -20,7 +20,7 @@ body{
 }
 
 #left_section {
-	width: 17.88%;
+	width: 18%;
 	font-size: 50px;
 	float: left;
 	background-color: 7380AE;
@@ -48,7 +48,15 @@ body{
 	width: 700px;
 	height: 400px;
 	margin-left: 16%;
+	
 }
+
+#tickets img {
+	width: 450px;
+	height: 200px;
+	margin-left: 25%;
+}
+
 
 .background-section {
 
