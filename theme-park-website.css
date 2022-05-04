@@ -3,17 +3,17 @@
 
 body{
 	margin: 0;
-	background-color: #D7AEAE; 
+	background-color: D7AEAE; 
 }
 
 #logo_picture {
 	width: 80%;
-	height: 30%;
+	height: 40%;
 }
 
 #main-title {
 	font-family: 'Roboto', sans-serif;
-	color: #ed3a34;
+	color: red;
 	font-size: 30px;
 	text-align: center;
 	text-decoration: dotted underline;
@@ -23,8 +23,8 @@ body{
 	width: 18%;
 	font-size: 50px;
 	float: left;
-	background-color: 7380AE;
-	height: 120%;
+	background-color: d9bb91;
+	height: 180%;
 	opacity: 0.8;
 }
 
@@ -45,15 +45,21 @@ body{
 }
   
 #theme_park img {
-	width: 700px;
-	height: 400px;
-	margin-left: 16%;
+	width: 550px;
+	height: 300px;
+	margin-left: 25%;
 	
 }
 
 #tickets img {
 	width: 450px;
 	height: 200px;
+	margin-left: 25%;
+}
+
+#qtown img {
+	width: 550px;
+	height: 300px;
 	margin-left: 25%;
 }
 
@@ -65,5 +71,9 @@ body{
 	  background-repeat: no-repeat;
 	  background-size: cover;
 	}
+	
+#ed3a34
+	
+
 	
 
